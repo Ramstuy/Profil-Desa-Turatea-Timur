@@ -1,5 +1,4 @@
 .navbar {
-  background: #343A40 !important;
   backdrop-filter: blur(5px);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   border-bottom: 2px solid rgba(255, 255, 255, 0.2);
